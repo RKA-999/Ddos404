@@ -13,7 +13,8 @@
 ---
 
 ⚠️ **Disclaimer**:This tool is for **educational and research purposes only**. DdOs404 is a powerful attacker tool so,
-the authors take no responsibility for misuse.  
+the authors take no responsibility for misuse. 
+**Suggestion** Use a paid/free VPN before using this tool. Like <a href="https://play.google.com/store/apps/details?id=ch.protonvpn.android">Proton Vpn</a> or <a href="https://play.google.com/store/apps/details?id=app.jumpjumpvpn.jumpjumpvpn">Jump Jump Vpn</a>
 
 ---
 <h1 align="center"> DEVELOPER INFO </h1>
@@ -52,7 +53,8 @@ git clone https://github.com/RKA-999/DdOs404.git
 cd Ddos404
 sh ddos.sh
 ```
-
+**Check Website ip** by this <a href="https://centralops.net/co/">click this link</a>
+```
 ## 📜 License
 
 MIT License @ copyright 2026

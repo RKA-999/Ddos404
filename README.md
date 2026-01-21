@@ -48,7 +48,7 @@ pkg install figlet -y
 pkg install dnsutils -y
 apt update && upgrade
 apt install git python2
-git clone https://github.com/CyberMrlink/Ddos404
+git clone https://github.com/RKA-999/Ddos404.git
 cd Ddos404
 sh ddos.sh
 ```

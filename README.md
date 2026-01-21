@@ -53,7 +53,9 @@ git clone https://github.com/RKA-999/DdOs404.git
 cd Ddos404
 sh ddos.sh
 ```
-**Check Website ip** just <a href="https://centralops.net/co/">click here</a>
+**Website name to ip** just <a href="https://centralops.net/co/">click here</a>
+
+**ip to isp name** just <a href="https://www.whatismyip.com/ip-address-lookup/">click here</a>
 ```
 ## 📜 License
 
